@@ -7,4 +7,6 @@ Created on Thu Aug 22 13:41:15 2019
 """
 
 print('Gekko World')
-This is a great file
+print('This is a great file')
+print('Meg is super awesome')
+
